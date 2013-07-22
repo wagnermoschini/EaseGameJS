@@ -1,0 +1,4 @@
+EaseGameJS
+==========
+
+just a gameframework
